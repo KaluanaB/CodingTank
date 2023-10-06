@@ -1,0 +1,7 @@
+C:\Users\licaf\source\repos\Ex05\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+C:\Users\licaf\source\repos\Ex05\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\licaf\source\repos\Ex05\Ex05\bin\Debug\Ex05.exe.config
+C:\Users\licaf\source\repos\Ex05\Ex05\bin\Debug\Ex05.exe
+C:\Users\licaf\source\repos\Ex05\Ex05\bin\Debug\Ex05.pdb
+C:\Users\licaf\source\repos\Ex05\Ex05\obj\Debug\Ex05.exe
+C:\Users\licaf\source\repos\Ex05\Ex05\obj\Debug\Ex05.pdb
