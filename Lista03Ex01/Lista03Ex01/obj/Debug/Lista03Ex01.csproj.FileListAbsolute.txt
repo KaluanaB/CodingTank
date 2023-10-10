@@ -1,0 +1,6 @@
+/home/kalumirim/RiderProjects/Lista03Ex01/Lista03Ex01/bin/Debug/Lista03Ex01.exe
+/home/kalumirim/RiderProjects/Lista03Ex01/Lista03Ex01/bin/Debug/Lista03Ex01.pdb
+/home/kalumirim/RiderProjects/Lista03Ex01/Lista03Ex01/obj/Debug/Lista03Ex01.csproj.AssemblyReference.cache
+/home/kalumirim/RiderProjects/Lista03Ex01/Lista03Ex01/obj/Debug/Lista03Ex01.csproj.CoreCompileInputs.cache
+/home/kalumirim/RiderProjects/Lista03Ex01/Lista03Ex01/obj/Debug/Lista03Ex01.exe
+/home/kalumirim/RiderProjects/Lista03Ex01/Lista03Ex01/obj/Debug/Lista03Ex01.pdb
