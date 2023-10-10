@@ -1,0 +1,6 @@
+/home/kalumirim/RiderProjects/Ex11/Ex11/bin/Debug/Ex11.exe
+/home/kalumirim/RiderProjects/Ex11/Ex11/bin/Debug/Ex11.pdb
+/home/kalumirim/RiderProjects/Ex11/Ex11/obj/Debug/Ex11.csproj.AssemblyReference.cache
+/home/kalumirim/RiderProjects/Ex11/Ex11/obj/Debug/Ex11.csproj.CoreCompileInputs.cache
+/home/kalumirim/RiderProjects/Ex11/Ex11/obj/Debug/Ex11.exe
+/home/kalumirim/RiderProjects/Ex11/Ex11/obj/Debug/Ex11.pdb
